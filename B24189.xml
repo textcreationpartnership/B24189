@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties proceedings in Northamptonshire, Glocestershire, Wilishire and Warwickshire from the 16 of August to the 23 wherein is declared his royall intention and resolution therein concerning the inhabitants of those counties : likewise the resolution of these worthy pillars of the protestant religion : namely the Lord Brookes, Colonell Hollis, Colonell Hampden, Colonell Goodwin, Colonell Fines, who are now marching towards Warwickshire with 6000 horse and foot.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24189</idno><idno type="EEBO-CITATION">12205831</idno>
+  <idno type="VID">197529</idno>
+  <idno type="EEBO-PROQUEST">2240942715</idno>
+  
+            <idno type="STC">Wing H2086</idno>
+            <idno type="OCLC">12205831</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E113, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties proceedings in Northamptonshire, Glocestershire, Wilishire and Warwickshire from the 16 of August to the 23 wherein is declared his royall intention and resolution therein concerning the inhabitants of those counties : likewise the resolution of these worthy pillars of the protestant religion : namely the Lord Brookes, Colonell Hollis, Colonell Hampden, Colonell Goodwin, Colonell Fines, who are now marching towards Warwickshire with 6000 horse and foot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for I. Williams,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Aug 23, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Gloucestershire (England) --  History --  Siege, 1643.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Northamptonshire (England)</term>
+               <term type="geographic_name">Warwickshire (England)</term>
+               <term type="geographic_name">Wiltshire (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197529:1"/>
+            <p>HIS MAJESTIES PROCEEDINGS IN <hi>Northamptonshire, Glocestershire, Wilishire,</hi> and <hi>Warwickshire,</hi> from the 16. of <hi>August</hi> to the 23.</p>
+            <p>WHEREIN Is Declared His Royall Intention and Reso<g ref="char:EOLhyphen"/>solution therein concerning the Inhabitants of those Counties.</p>
+            <p>LIKEWISE The Resolution of these worthy Pillars of the Protestant Religion.</p>
+            <p>Namely,
+<list>
+                  <item>The Lord Brookes,</item>
+                  <item>Colonell Hampden,</item>
+                  <item>Colonell Fines.</item>
+                  <item>Colonell Hollis.</item>
+                  <item>Colonell Gooodwin.</item>
+               </list>
+            </p>
+            <p>Who are now marching towards <hi>Warwickshire</hi> with 6000. horse and foot,</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and published.</p>
+                        <closer>
+                           <signed>Hen. Elsyng, Cler. parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Aug.</hi> 23. Printed for <hi>I. Williams,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197529:2"/>
+            <pb n="1" facs="tcp:197529:2"/>
+            <head>
+               <figure>
+                  <figDesc>decorative top border consisting of a French fleur-de-lis with Tudor rose and Scottish thistle on either side, each surmounted by a crown and against a background of stylized foliage</figDesc>
+               </figure>
+            </head>
+            <head>HIS MAJESTIES proceedings in <hi>Warwick-shire</hi> and <hi>Northamptonshire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE miseries and distractions that are now ready to be put in ex<g ref="char:EOLhyphen"/>ecution are ma<g ref="char:EOLhyphen"/>nifold, and the plots and pro<g ref="char:EOLhyphen"/>jects that are now hatched by the Malignant party, are ready to take place and possession, insomuch that a Civill warre is beginning to play its part in this Kingdome, the misery whereof
+<pb n="2" facs="tcp:197529:3"/>is so great and terrible, and no man knoweth the cruelty, but them that bath had experience of it, God of his great mercy send a sudden ceslation of them, and bring to ruine those that e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deavour to disturbe the peace of the Kingdome, yet still doth these rumours of Warre in<g ref="char:EOLhyphen"/>crease in severall Counties of this Realm and more especially in <hi>Wiltshire,</hi> as may appeare in this ensuing Relation:</p>
+            <p>Upon the 19 of this present Moneth of <hi>August,</hi> there arose many disturbances in the County of <hi>Wiltshire,</hi> occasioned by these parties that came to put the Commission of Array in execution, and to withstand those Gentlemen that were sent from both Houses of Parliament to see the Ordinance of Parliament perfor<g ref="char:EOLhyphen"/>med, and having a meeting together, af<g ref="char:EOLhyphen"/>ter some time spent in parley, they not liking of the propositions that each part tendred to one another, there began a sudden fray or combustion together, and
+<pb n="3" facs="tcp:197529:3"/>having spent the whole day in contro<g ref="char:EOLhyphen"/>versie and debate thereof, they had some blowes, wheresome there were hurt, and three or foure slaine, and then the Coun<g ref="char:EOLhyphen"/>ty comming in with speed, and siding with those that held with the Ordinance of Parliament, they were forced to flye, otherwise they had both taken prison<g ref="char:EOLhyphen"/>ers, as the Earle of <hi>Berkshire</hi> and divers others are, and praised be the Almighty the whole County in generall stands for the Parliament, and are resolved to fight to the uttermost of their power a<g ref="char:EOLhyphen"/>gainst all those that shall oppose them; and for the Cavaleers, they make no question, it being the worst of their feare to make a sudden way with them and to drive and beat them out of their Countrey, which God grant that they and all the rest of the Countries in England may dot the same, not drea<g ref="char:EOLhyphen"/>ding nor fearing all the foes that ever shall come against them, that so this
+<pb n="4" facs="tcp:197529:4"/>Kingdome may flourish in its own glo<g ref="char:EOLhyphen"/>ry and prosperity once againe.</p>
+            <p>It is credibly reported from <hi>Northam<g ref="char:EOLhyphen"/>tonshire,</hi> that the Kings Majesty is come into those parts, and doth ride by and through the Country with some small guard, to know who stands for him, and who does not; some when they see His Royall Person cryes, For King <hi>Charles,</hi> For King <hi>Charles,</hi> but presently when His Royall Majesty is gone, then they stand for the Parliament, and indeed it is thought that they doe it for feare, for they think that if they should withstand His Royall Majesty, that then the Cava<g ref="char:EOLhyphen"/>leers would come and ransack their hou<g ref="char:EOLhyphen"/>ses, They are in a great and terrible perplexity in those parts, by reason that the Cavaleers do commit many outrages against them, and do strive and endea<g ref="char:EOLhyphen"/>vour to ransack their houses, and take all that they find therein from them by vio<g ref="char:EOLhyphen"/>lence. And concerning the proceedings
+<pb n="5" facs="tcp:197529:4"/>in <hi>Warwickeshire,</hi> His Majesty is resolved to come thither, and it is supposed that he came thither upon saturday last; the Cavaleers in that County do not so much domineere, as they doe in other Coun<g ref="char:EOLhyphen"/>tries, by reason that there are many that stands in opposition against them; for information being given to both Houses that there were a great many of them, and that they had made many attempts against the Castle of <hi>Warwick,</hi> and there<g ref="char:EOLhyphen"/>fore after some time spent in debate thereof, they Ordered, that the Lord <hi>Brookes</hi> should have Forces raised for the securing of the said Castle, which hee hath accordingly, and is now marching downe with his Forces, together with Colonell <hi>Hampden,</hi> Colonell <hi>Hollis,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Fines,</hi> and Colonell <hi>Goodwin,</hi> their Army consisting of about 6000. Horse and Foot, and are resolved to march to<g ref="char:EOLhyphen"/>wards the said Castle, for the preservati<g ref="char:EOLhyphen"/>on thereof against all those that shall feel
+<pb n="6" facs="tcp:197529:5"/>or endeavour to make any attempts a<g ref="char:EOLhyphen"/>gainst it, it being supposed that the Ca<g ref="char:EOLhyphen"/>valeers doe thirst very much after the same: His Majesty likewise is resolved to come in person to the said Towne of <hi>Warwick,</hi> and to desire the surrending up of the same into his custody.</p>
+            <p>From <hi>Glocester</hi> the House of Commons received Letters, intimating that the Lord <hi>Shandois</hi> was comming into the said County with an intent to execute the Commission of Array, but the whole County stands for the Parliament, and had like to have tooke Sir <hi>William Swig</hi> prisoner, who came to execute the said Commission.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered to be forthwith Printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+            <closer>
+               <signed>Hen. Elsynge, Cler. Par. D.C.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
